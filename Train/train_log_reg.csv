@@ -1,0 +1,1001 @@
+departure_station,arrival_station,departure_time,arrival_time,day_of_week,train_type,distance_km,train_number
+Providence,New York,14:00,17:45,Tuesday,Local,311,10
+Washington DC,Providence,17:30,20:00,Tuesday,Local,166,10
+New Haven,Trenton,15:45,17:30,Sunday,Express,119,6
+Chicago,Providence,20:45,22:30,Tuesday,Express,129,5
+Providence,Philadelphia,16:30,19:45,Tuesday,Local,229,9
+Trenton,Philadelphia,08:45,12:45,Sunday,Local,363,9
+Philadelphia,Baltimore,16:45,19:15,Thursday,Express,162,5
+Providence,Washington DC,14:45,17:00,Monday,Local,171,8
+New Haven,Newark,17:45,18:30,Wednesday,Local,70,7
+Chicago,Boston,06:45,09:00,Friday,Local,164,7
+Washington DC,New York,07:00,09:15,Wednesday,Express,167,4
+New Haven,Newark,19:45,20:45,Wednesday,Express,70,4
+New Haven,Philadelphia,15:00,17:45,Saturday,Local,262,10
+Philadelphia,Newark,07:45,12:15,Monday,Local,324,9
+Baltimore,Chicago,21:30,23:00,Saturday,Express,76,7
+Chicago,Baltimore,16:15,17:15,Monday,Express,74,4
+Boston,Providence,18:00,20:45,Sunday,Local,277,10
+New Haven,Providence,12:45,14:15,Sunday,Local,73,8
+Baltimore,Newark,13:30,16:00,Monday,Express,164,4
+Boston,Providence,20:15,23:00,Tuesday,Express,277,3
+Chicago,Washington DC,08:00,09:30,Thursday,Express,60,3
+New York,New Haven,19:15,23:15,Tuesday,Local,370,9
+Trenton,New York,18:30,23:30,Thursday,Express,462,2
+Baltimore,Trenton,13:00,16:15,Saturday,Local,217,10
+Newark,Philadelphia,09:15,13:00,Thursday,Express,315,3
+New York,Philadelphia,15:45,18:15,Saturday,Express,111,7
+Trenton,Washington DC,16:00,20:15,Sunday,Express,327,5
+Philadelphia,Trenton,11:15,15:45,Wednesday,Express,368,3
+Providence,New York,08:30,12:15,Sunday,Local,311,9
+Washington DC,Newark,11:30,14:45,Sunday,Local,264,10
+Newark,Philadelphia,06:00,10:15,Wednesday,Express,315,1
+Philadelphia,New Haven,17:15,20:45,Thursday,Local,271,10
+Chicago,Providence,15:00,16:45,Thursday,Express,129,3
+Philadelphia,Washington DC,11:00,12:00,Saturday,Express,71,6
+Providence,Chicago,12:15,14:45,Tuesday,Express,115,5
+Chicago,Trenton,17:15,20:45,Saturday,Express,277,4
+Newark,Trenton,14:45,15:45,Tuesday,Local,64,6
+Providence,Philadelphia,19:15,22:15,Sunday,Express,229,4
+Boston,New York,11:30,13:00,Wednesday,Express,74,3
+Washington DC,New Haven,20:00,23:15,Sunday,Local,211,10
+Newark,Trenton,06:00,06:45,Monday,Express,64,3
+Boston,Baltimore,21:30,00:15,Thursday,Express,220,2
+Trenton,Chicago,19:15,22:45,Tuesday,Express,268,2
+Newark,New York,19:30,01:00,Saturday,Local,428,10
+Trenton,New Haven,18:30,20:45,Wednesday,Express,124,4
+Chicago,Washington DC,15:45,16:45,Tuesday,Local,60,6
+Boston,Washington DC,09:30,12:00,Saturday,Express,126,5
+Washington DC,Boston,11:00,12:45,Thursday,Express,120,5
+Providence,Baltimore,17:30,19:00,Sunday,Local,60,9
+New Haven,New York,08:00,12:15,Thursday,Express,377,2
+Philadelphia,Providence,19:00,22:30,Friday,Express,212,1
+New York,Newark,08:00,13:15,Monday,Local,410,7
+Washington DC,Boston,08:15,10:30,Friday,Local,120,6
+Boston,New Haven,18:45,22:45,Wednesday,Local,313,8
+New Haven,Providence,20:00,21:15,Tuesday,Local,73,6
+Washington DC,New Haven,19:00,21:45,Wednesday,Local,211,10
+Boston,New York,12:15,13:00,Sunday,Express,74,5
+Baltimore,Chicago,16:00,17:15,Saturday,Local,76,8
+Baltimore,Trenton,14:30,17:15,Thursday,Express,217,1
+Trenton,New York,21:30,02:45,Friday,Express,462,2
+Washington DC,Chicago,18:45,20:15,Friday,Express,63,4
+Baltimore,Washington DC,12:00,14:30,Sunday,Local,120,9
+Boston,Philadelphia,12:15,13:45,Friday,Local,64,6
+Trenton,Chicago,08:30,12:00,Sunday,Express,268,2
+Boston,Chicago,15:15,17:00,Wednesday,Local,165,10
+Trenton,New Haven,06:15,08:15,Thursday,Local,124,6
+Washington DC,Boston,07:30,09:30,Tuesday,Local,120,7
+New Haven,Trenton,10:15,12:45,Saturday,Local,119,9
+Providence,Trenton,12:30,14:45,Tuesday,Express,172,3
+Newark,Boston,14:15,18:45,Wednesday,Express,377,2
+New Haven,New York,12:30,16:45,Saturday,Local,377,10
+Chicago,Newark,10:00,12:45,Friday,Express,219,1
+Boston,Trenton,21:45,03:15,Monday,Local,422,9
+Chicago,Trenton,16:30,19:15,Wednesday,Local,277,8
+New Haven,Trenton,20:30,22:45,Wednesday,Express,119,5
+Trenton,Washington DC,16:45,21:15,Thursday,Express,327,3
+Newark,Philadelphia,20:30,00:15,Tuesday,Express,315,1
+Newark,Baltimore,18:30,21:00,Wednesday,Local,164,10
+New York,Washington DC,19:15,21:00,Wednesday,Express,176,3
+Newark,Providence,11:45,13:45,Friday,Local,114,7
+Providence,Trenton,12:00,14:30,Friday,Express,172,4
+Newark,Providence,07:30,09:15,Saturday,Express,114,5
+New Haven,Chicago,18:45,20:30,Sunday,Local,172,10
+New York,Boston,07:15,08:45,Sunday,Local,67,8
+New Haven,Trenton,19:00,20:45,Monday,Local,119,7
+New Haven,Philadelphia,11:45,15:15,Sunday,Local,262,10
+Philadelphia,New York,14:00,15:45,Thursday,Local,118,7
+New York,New Haven,18:00,22:30,Monday,Local,370,10
+New Haven,Philadelphia,13:00,16:15,Saturday,Local,262,10
+Philadelphia,Washington DC,21:30,23:00,Friday,Local,71,6
+Philadelphia,New Haven,16:30,19:15,Sunday,Express,271,3
+New York,Baltimore,11:15,14:00,Tuesday,Local,271,9
+Chicago,Boston,12:15,14:45,Friday,Local,164,9
+Trenton,Baltimore,12:45,16:00,Thursday,Express,226,2
+Providence,Baltimore,18:15,19:00,Friday,Local,60,7
+Trenton,Providence,11:00,12:45,Thursday,Express,172,3
+Newark,Trenton,18:00,19:30,Thursday,Express,64,5
+Providence,Washington DC,07:30,09:30,Thursday,Local,171,9
+Newark,Baltimore,10:00,12:30,Saturday,Express,164,5
+New Haven,Newark,10:45,11:45,Thursday,Local,70,6
+Boston,Chicago,16:00,17:45,Thursday,Express,165,3
+New York,Washington DC,18:00,19:45,Tuesday,Express,176,3
+Providence,Baltimore,10:45,11:45,Monday,Express,60,4
+Providence,Chicago,19:15,21:15,Wednesday,Local,115,6
+New Haven,Chicago,11:15,13:15,Monday,Local,172,9
+Chicago,Providence,12:45,14:30,Thursday,Express,129,3
+Philadelphia,Washington DC,21:30,22:15,Tuesday,Express,71,4
+New Haven,Baltimore,21:00,22:45,Friday,Local,113,8
+Baltimore,Washington DC,15:45,18:15,Tuesday,Local,120,7
+Philadelphia,Trenton,18:00,22:30,Thursday,Express,368,1
+New York,Providence,07:30,11:15,Tuesday,Express,312,1
+Philadelphia,New York,06:00,08:30,Sunday,Local,118,7
+Chicago,Providence,13:45,15:30,Tuesday,Local,129,6
+Philadelphia,Trenton,09:00,13:00,Thursday,Local,368,8
+New York,New Haven,13:15,17:45,Saturday,Local,370,10
+Chicago,Trenton,11:30,14:15,Sunday,Local,277,10
+Trenton,Providence,18:30,21:00,Tuesday,Express,172,4
+Providence,Chicago,20:30,23:00,Wednesday,Local,115,7
+Providence,Washington DC,19:45,22:00,Wednesday,Express,171,4
+Newark,New Haven,10:30,11:15,Tuesday,Local,69,7
+Trenton,New Haven,21:15,23:45,Saturday,Express,124,5
+Trenton,Washington DC,13:45,18:15,Friday,Local,327,8
+Philadelphia,Trenton,13:15,17:00,Thursday,Local,368,8
+Providence,New Haven,13:00,14:30,Wednesday,Express,63,3
+New York,Newark,18:00,22:45,Friday,Express,410,1
+Washington DC,Newark,17:00,20:30,Tuesday,Local,264,9
+Washington DC,Providence,13:00,14:45,Friday,Local,166,8
+Chicago,New Haven,13:15,15:15,Sunday,Local,178,10
+Providence,Trenton,09:45,11:45,Monday,Local,172,9
+Providence,Philadelphia,15:45,19:00,Wednesday,Local,229,10
+Washington DC,Newark,10:30,14:00,Tuesday,Express,264,3
+Providence,New York,10:15,14:00,Thursday,Express,311,3
+Philadelphia,Providence,06:00,09:30,Saturday,Local,212,9
+Baltimore,Trenton,09:15,12:30,Sunday,Express,217,3
+Boston,Philadelphia,18:30,19:30,Tuesday,Express,64,3
+Trenton,Chicago,17:30,21:00,Thursday,Express,268,2
+Newark,New Haven,18:15,19:15,Saturday,Local,69,9
+Chicago,Providence,06:15,08:30,Saturday,Express,129,5
+Baltimore,Chicago,19:15,20:15,Tuesday,Local,76,6
+Washington DC,Providence,12:45,14:45,Sunday,Express,166,7
+Trenton,Boston,18:00,23:00,Friday,Local,415,9
+Providence,Philadelphia,18:15,21:15,Friday,Express,229,3
+Newark,New Haven,13:15,14:45,Saturday,Local,69,10
+Providence,New York,15:15,19:00,Friday,Local,311,10
+New York,Philadelphia,18:30,20:45,Monday,Express,111,3
+New York,Providence,21:30,01:15,Saturday,Local,312,10
+Newark,Philadelphia,06:45,11:15,Saturday,Local,315,9
+Newark,Trenton,06:00,07:30,Thursday,Local,64,5
+Washington DC,Trenton,07:45,11:45,Friday,Local,316,8
+Newark,Providence,13:00,15:00,Sunday,Local,114,9
+Philadelphia,Providence,19:30,23:00,Saturday,Local,212,10
+Providence,Boston,15:30,18:15,Sunday,Local,275,10
+Baltimore,Chicago,06:30,08:00,Monday,Local,76,7
+New Haven,Providence,13:45,15:15,Thursday,Express,73,3
+Newark,New Haven,08:15,09:15,Tuesday,Express,69,3
+Chicago,New York,08:15,11:30,Sunday,Local,213,9
+New York,Chicago,10:30,14:00,Saturday,Local,218,10
+Philadelphia,Providence,17:15,20:45,Monday,Express,212,1
+Trenton,Washington DC,14:15,18:00,Wednesday,Express,327,1
+New Haven,Chicago,20:45,23:15,Monday,Express,172,5
+Baltimore,Newark,14:00,16:00,Monday,Local,164,9
+New Haven,Baltimore,11:30,13:15,Thursday,Express,113,3
+Newark,Philadelphia,19:30,00:00,Tuesday,Local,315,9
+Washington DC,Chicago,12:45,13:30,Wednesday,Local,63,6
+New York,New Haven,13:45,18:00,Friday,Express,370,3
+New York,Boston,18:15,19:45,Friday,Local,67,7
+Trenton,Providence,07:30,09:15,Sunday,Local,172,9
+Washington DC,Chicago,13:00,13:45,Monday,Local,63,6
+Providence,Philadelphia,07:45,10:30,Thursday,Local,229,8
+Boston,New York,06:00,07:00,Thursday,Express,74,4
+Philadelphia,Chicago,20:00,21:45,Friday,Express,111,3
+New York,Chicago,19:30,22:15,Sunday,Local,218,10
+Chicago,Washington DC,06:30,08:00,Sunday,Local,60,7
+New York,Trenton,11:45,16:30,Sunday,Express,472,3
+New Haven,New York,11:30,15:15,Wednesday,Local,377,8
+New York,Newark,20:30,01:15,Tuesday,Express,410,1
+New York,Chicago,21:30,00:15,Wednesday,Local,218,10
+Boston,Newark,21:00,01:15,Saturday,Local,362,10
+Boston,Washington DC,07:45,10:00,Saturday,Express,126,4
+Baltimore,New Haven,19:15,21:30,Tuesday,Express,115,5
+Providence,Newark,20:00,21:45,Friday,Express,126,4
+Chicago,Washington DC,17:30,18:45,Tuesday,Express,60,4
+New York,Philadelphia,15:00,17:30,Thursday,Local,111,6
+New York,Newark,06:30,11:15,Saturday,Express,410,2
+Philadelphia,New Haven,18:30,21:30,Monday,Local,271,8
+Boston,Trenton,14:00,19:15,Monday,Express,422,1
+Chicago,Philadelphia,12:45,14:30,Friday,Express,110,4
+Trenton,New Haven,17:30,19:45,Thursday,Local,124,8
+Baltimore,Washington DC,07:45,09:45,Wednesday,Express,120,3
+Providence,Newark,14:15,16:15,Thursday,Express,126,5
+Washington DC,Boston,14:30,16:15,Monday,Express,120,4
+Providence,Chicago,13:45,16:15,Monday,Express,115,3
+New Haven,Chicago,11:45,14:00,Saturday,Local,172,10
+New York,Trenton,09:15,14:00,Thursday,Local,472,9
+Baltimore,Providence,13:45,14:45,Thursday,Express,76,3
+New Haven,Newark,19:45,21:00,Monday,Express,70,3
+Chicago,Baltimore,17:15,18:00,Wednesday,Express,74,4
+Washington DC,Philadelphia,16:30,17:30,Friday,Local,75,7
+Boston,Providence,09:45,13:00,Sunday,Local,277,10
+Baltimore,Trenton,06:45,09:30,Friday,Local,217,9
+Baltimore,Boston,18:45,21:45,Thursday,Local,220,9
+New York,Trenton,15:00,20:30,Friday,Express,472,3
+Newark,Trenton,19:15,20:15,Monday,Express,64,3
+Baltimore,Providence,11:00,12:30,Monday,Express,76,5
+Philadelphia,Newark,09:15,13:15,Thursday,Local,324,9
+Washington DC,Baltimore,13:30,16:00,Thursday,Express,110,4
+Washington DC,New Haven,19:30,22:45,Sunday,Local,211,10
+Philadelphia,Boston,17:45,19:00,Sunday,Local,65,9
+Trenton,New York,10:15,15:30,Saturday,Express,462,4
+Philadelphia,Providence,07:30,10:15,Thursday,Express,212,1
+Philadelphia,Chicago,08:15,10:30,Wednesday,Express,111,3
+Washington DC,Baltimore,07:30,09:15,Friday,Local,110,5
+Providence,New York,14:00,18:15,Thursday,Local,311,9
+Washington DC,Chicago,11:30,12:15,Tuesday,Express,63,5
+Newark,New Haven,11:00,12:00,Saturday,Express,69,6
+New York,New Haven,10:30,14:45,Tuesday,Local,370,10
+New Haven,Providence,17:45,18:45,Monday,Express,73,4
+Providence,Trenton,21:00,22:45,Sunday,Local,172,10
+Boston,Trenton,10:30,15:15,Friday,Local,422,8
+New Haven,Baltimore,14:45,16:45,Thursday,Express,113,4
+New York,Baltimore,13:00,16:15,Tuesday,Express,271,1
+Newark,New York,20:45,02:15,Friday,Express,428,2
+Newark,Providence,10:15,12:45,Monday,Express,114,4
+Boston,Washington DC,06:15,08:15,Sunday,Local,126,7
+Providence,Washington DC,06:00,08:00,Wednesday,Local,171,7
+Trenton,Washington DC,17:30,21:45,Saturday,Local,327,10
+Philadelphia,New York,07:00,09:00,Friday,Express,118,4
+Providence,New Haven,10:45,12:15,Friday,Local,63,7
+Trenton,Philadelphia,08:30,12:30,Wednesday,Express,363,1
+Newark,New York,16:15,21:45,Friday,Express,428,1
+Washington DC,New York,21:30,23:15,Monday,Express,167,4
+New York,Providence,06:15,10:45,Monday,Express,312,1
+Boston,Washington DC,06:30,08:45,Wednesday,Express,126,2
+New York,Trenton,11:30,17:00,Saturday,Express,472,4
+Chicago,New Haven,19:30,21:30,Thursday,Local,178,10
+Chicago,Philadelphia,08:45,10:30,Tuesday,Express,110,3
+Providence,New Haven,10:45,11:45,Thursday,Local,63,7
+Newark,Philadelphia,07:00,11:00,Friday,Local,315,9
+Newark,Philadelphia,15:00,19:15,Tuesday,Express,315,1
+Philadelphia,Newark,15:15,19:45,Wednesday,Express,324,1
+Philadelphia,Baltimore,21:45,00:00,Wednesday,Express,162,3
+Philadelphia,New York,13:15,15:15,Saturday,Local,118,8
+Washington DC,Trenton,08:00,12:30,Tuesday,Express,316,1
+New Haven,Baltimore,14:15,16:45,Monday,Local,113,7
+Baltimore,Boston,19:00,22:30,Tuesday,Express,220,1
+New Haven,Baltimore,16:45,18:30,Friday,Express,113,3
+New York,New Haven,14:30,19:00,Monday,Local,370,10
+New Haven,Washington DC,18:45,21:45,Sunday,Local,220,10
+Washington DC,New Haven,20:15,23:15,Sunday,Express,211,4
+New York,Providence,11:15,15:00,Sunday,Local,312,10
+New Haven,Newark,16:45,17:45,Wednesday,Local,70,8
+Washington DC,Trenton,11:45,15:30,Tuesday,Local,316,8
+Baltimore,New York,10:00,13:00,Sunday,Local,262,10
+New Haven,Chicago,08:15,10:45,Thursday,Local,172,8
+Washington DC,Baltimore,13:15,15:15,Saturday,Express,110,6
+Philadelphia,Trenton,19:45,23:30,Thursday,Express,368,1
+Newark,Providence,20:30,22:45,Sunday,Local,114,9
+Philadelphia,Boston,17:15,18:00,Saturday,Express,65,6
+Newark,Boston,11:30,16:00,Friday,Express,377,2
+Boston,Providence,21:45,00:45,Thursday,Local,277,8
+Boston,New Haven,13:45,18:00,Tuesday,Express,313,1
+Boston,Providence,10:00,13:30,Tuesday,Local,277,8
+Baltimore,Providence,18:15,19:45,Thursday,Local,76,7
+Philadelphia,Chicago,18:30,20:45,Sunday,Express,111,6
+Newark,Chicago,10:00,13:00,Tuesday,Local,219,10
+Washington DC,Providence,09:15,11:30,Friday,Local,166,9
+New York,Trenton,08:00,12:45,Monday,Local,472,8
+Washington DC,Providence,15:45,17:30,Sunday,Local,166,10
+New York,Philadelphia,06:15,08:00,Friday,Local,111,5
+Chicago,Philadelphia,17:00,19:00,Saturday,Express,110,6
+Washington DC,Baltimore,12:00,14:15,Friday,Express,110,3
+New Haven,Philadelphia,15:30,19:00,Sunday,Local,262,10
+New Haven,Newark,08:00,09:00,Saturday,Local,70,8
+Providence,Trenton,19:15,21:00,Sunday,Express,172,6
+Philadelphia,New York,11:15,13:00,Tuesday,Local,118,7
+New York,Boston,16:30,17:15,Monday,Express,67,4
+New York,Boston,17:15,18:15,Sunday,Local,67,8
+Philadelphia,Providence,06:45,10:15,Sunday,Local,212,9
+Baltimore,Boston,12:15,15:30,Tuesday,Local,220,9
+Providence,Philadelphia,20:15,23:45,Wednesday,Local,229,10
+Baltimore,Trenton,13:00,16:30,Tuesday,Local,217,10
+Baltimore,Washington DC,17:00,18:45,Saturday,Local,120,9
+Baltimore,Philadelphia,14:15,16:45,Tuesday,Local,174,8
+Philadelphia,Trenton,11:30,15:15,Tuesday,Express,368,1
+Baltimore,Washington DC,15:00,16:45,Monday,Express,120,3
+New Haven,New York,08:30,12:15,Tuesday,Express,377,2
+Boston,Chicago,07:15,09:30,Sunday,Local,165,9
+Chicago,New York,10:15,13:00,Monday,Local,213,8
+New York,Philadelphia,21:45,00:15,Thursday,Local,111,6
+New York,Philadelphia,11:00,13:15,Wednesday,Local,111,6
+Chicago,New York,16:15,19:30,Monday,Local,213,9
+Philadelphia,New Haven,14:45,17:45,Saturday,Local,271,10
+Washington DC,Philadelphia,16:00,17:30,Thursday,Local,75,8
+Philadelphia,Newark,15:15,19:15,Monday,Express,324,1
+New York,Providence,14:15,18:00,Monday,Local,312,8
+New York,Newark,10:00,15:15,Wednesday,Express,410,2
+Chicago,New York,15:00,17:45,Sunday,Express,213,3
+Baltimore,Trenton,12:00,15:15,Saturday,Local,217,10
+Philadelphia,New York,15:15,17:15,Friday,Local,118,8
+Newark,Boston,20:15,00:45,Friday,Express,377,2
+Chicago,Boston,08:45,10:30,Monday,Express,164,4
+New Haven,Baltimore,11:30,13:30,Tuesday,Local,113,7
+New York,Philadelphia,19:00,21:30,Saturday,Local,111,8
+Chicago,Boston,16:15,18:15,Thursday,Express,164,4
+Philadelphia,Trenton,11:15,15:00,Tuesday,Local,368,9
+New York,New Haven,11:00,14:45,Tuesday,Local,370,9
+Washington DC,Newark,12:30,16:00,Saturday,Local,264,10
+Chicago,New York,20:00,23:15,Sunday,Express,213,4
+Providence,Baltimore,13:30,14:30,Monday,Express,60,4
+New York,Providence,07:15,11:15,Monday,Express,312,1
+Philadelphia,Baltimore,12:30,14:15,Monday,Local,162,8
+Boston,Baltimore,15:45,18:45,Monday,Local,220,10
+Newark,Washington DC,14:15,17:30,Friday,Express,274,1
+Trenton,Chicago,08:45,11:30,Monday,Express,268,1
+Baltimore,Newark,17:00,19:00,Friday,Express,164,4
+Trenton,Chicago,20:00,22:45,Friday,Local,268,9
+Philadelphia,Chicago,19:00,21:30,Sunday,Express,111,6
+New Haven,Providence,07:30,08:30,Monday,Express,73,4
+New Haven,Chicago,08:15,10:45,Wednesday,Local,172,8
+Boston,New York,17:00,18:00,Thursday,Local,74,6
+Baltimore,New York,10:00,12:45,Tuesday,Local,262,8
+Providence,Trenton,12:15,14:15,Friday,Express,172,4
+Boston,Washington DC,11:00,13:15,Saturday,Local,126,8
+Trenton,Baltimore,12:45,15:30,Saturday,Local,226,10
+Boston,New York,21:15,22:45,Thursday,Express,74,5
+Trenton,Philadelphia,20:15,00:15,Saturday,Local,363,10
+New York,Providence,17:15,21:00,Wednesday,Express,312,1
+New Haven,Chicago,21:45,00:00,Saturday,Express,172,5
+New York,Chicago,06:15,09:30,Tuesday,Local,218,8
+Newark,New York,20:45,02:00,Tuesday,Local,428,8
+Baltimore,Boston,19:15,22:00,Friday,Local,220,10
+Providence,Boston,16:30,19:30,Monday,Local,275,8
+Trenton,New York,06:00,11:00,Sunday,Local,462,9
+Providence,Philadelphia,18:30,21:30,Wednesday,Local,229,8
+Trenton,Philadelphia,19:00,23:30,Friday,Express,363,1
+Philadelphia,New Haven,14:45,18:00,Wednesday,Express,271,1
+Boston,Washington DC,18:30,20:30,Monday,Local,126,6
+Newark,New Haven,12:15,13:45,Saturday,Express,69,7
+New Haven,Trenton,13:00,15:15,Saturday,Local,119,9
+Trenton,New York,11:00,16:15,Sunday,Express,462,4
+Providence,Newark,08:30,10:45,Monday,Express,126,3
+Newark,Boston,15:45,19:45,Friday,Express,377,1
+Washington DC,Providence,08:30,10:15,Sunday,Local,166,9
+Washington DC,New York,21:45,23:30,Monday,Express,167,3
+New York,New Haven,14:45,19:15,Thursday,Local,370,10
+New Haven,New York,18:00,22:15,Tuesday,Express,377,1
+Philadelphia,New York,20:30,22:45,Sunday,Express,118,5
+Providence,New York,15:30,19:45,Sunday,Express,311,3
+Boston,New York,15:45,16:45,Friday,Express,74,4
+Boston,Trenton,14:30,19:45,Wednesday,Express,422,1
+Providence,Chicago,19:15,21:30,Thursday,Local,115,7
+Baltimore,Trenton,14:15,17:15,Friday,Local,217,10
+Philadelphia,Newark,19:30,00:00,Monday,Express,324,3
+Newark,Trenton,17:30,18:30,Monday,Express,64,5
+Trenton,Philadelphia,11:45,16:15,Monday,Express,363,1
+Baltimore,Trenton,19:15,22:30,Monday,Express,217,1
+Trenton,Philadelphia,11:15,15:30,Wednesday,Local,363,10
+Trenton,Philadelphia,07:00,11:15,Thursday,Express,363,1
+Baltimore,Trenton,19:45,23:15,Saturday,Local,217,10
+New York,Philadelphia,14:00,16:30,Tuesday,Express,111,3
+Washington DC,Providence,20:15,22:45,Wednesday,Local,166,8
+Trenton,New Haven,14:45,17:15,Wednesday,Express,124,5
+Baltimore,Washington DC,17:30,19:15,Saturday,Express,120,7
+Baltimore,Boston,10:45,13:45,Saturday,Local,220,10
+Chicago,Providence,10:30,12:45,Tuesday,Express,129,3
+New York,Washington DC,14:30,16:45,Tuesday,Express,176,3
+New Haven,Newark,18:45,20:00,Saturday,Express,70,6
+Chicago,Washington DC,16:30,17:45,Monday,Local,60,6
+Chicago,Boston,10:00,12:00,Wednesday,Express,164,5
+Providence,Trenton,21:15,23:45,Friday,Express,172,4
+Washington DC,Boston,20:30,22:15,Tuesday,Local,120,6
+Baltimore,Trenton,17:00,20:30,Tuesday,Local,217,10
+Washington DC,Baltimore,16:30,19:00,Saturday,Local,110,9
+Philadelphia,New Haven,14:15,17:45,Thursday,Express,271,2
+Providence,New York,08:00,12:15,Friday,Express,311,1
+New Haven,Providence,12:15,13:45,Friday,Express,73,3
+Washington DC,Providence,06:15,08:00,Tuesday,Local,166,7
+Boston,New Haven,19:00,23:15,Monday,Express,313,2
+Trenton,Washington DC,08:00,12:00,Thursday,Express,327,1
+Philadelphia,Providence,08:00,11:00,Friday,Local,212,7
+New York,Providence,15:45,20:15,Tuesday,Local,312,8
+New Haven,Trenton,10:00,12:30,Friday,Local,119,7
+Philadelphia,Boston,06:00,07:00,Sunday,Local,65,9
+Trenton,New York,12:00,17:00,Thursday,Local,462,9
+Providence,Philadelphia,21:00,00:00,Thursday,Express,229,1
+Trenton,New York,16:30,22:00,Sunday,Local,462,10
+Chicago,Trenton,15:45,19:00,Wednesday,Express,277,2
+Trenton,Philadelphia,16:15,20:15,Sunday,Express,363,3
+Chicago,Baltimore,12:00,13:00,Saturday,Local,74,8
+Providence,Washington DC,15:30,17:45,Saturday,Local,171,10
+Newark,Providence,14:30,16:15,Tuesday,Local,114,8
+Chicago,Washington DC,06:30,08:00,Thursday,Express,60,3
+New York,Providence,18:15,22:45,Wednesday,Local,312,8
+Trenton,Chicago,15:00,18:30,Wednesday,Local,268,9
+Trenton,New Haven,16:45,18:30,Friday,Local,124,7
+New York,Providence,16:45,20:45,Friday,Local,312,9
+Boston,Washington DC,18:30,20:45,Sunday,Local,126,9
+Baltimore,Newark,13:15,15:15,Wednesday,Express,164,4
+Newark,Baltimore,15:15,17:00,Sunday,Express,164,7
+New Haven,Newark,14:15,15:45,Sunday,Express,70,6
+Chicago,New Haven,08:45,11:15,Friday,Local,178,8
+New York,Philadelphia,10:30,12:30,Thursday,Local,111,7
+Providence,New York,15:00,19:00,Sunday,Local,311,10
+Chicago,Providence,16:45,19:15,Monday,Express,129,5
+Baltimore,Philadelphia,20:30,22:15,Thursday,Local,174,9
+Providence,New York,20:30,00:45,Wednesday,Local,311,8
+Philadelphia,Baltimore,18:00,20:15,Wednesday,Local,162,9
+Trenton,Chicago,21:00,00:15,Sunday,Express,268,3
+Philadelphia,Newark,10:00,14:00,Thursday,Local,324,10
+Chicago,Washington DC,08:15,09:45,Friday,Express,60,2
+Baltimore,Philadelphia,20:00,22:15,Friday,Local,174,9
+Newark,Chicago,19:30,22:15,Saturday,Express,219,4
+Chicago,Trenton,18:00,21:30,Wednesday,Express,277,3
+New York,Washington DC,17:30,19:45,Tuesday,Express,176,4
+Washington DC,Trenton,08:45,13:15,Saturday,Local,316,9
+Chicago,New Haven,21:15,23:45,Friday,Local,178,9
+Trenton,Boston,09:45,15:00,Thursday,Express,415,2
+Trenton,Chicago,11:45,15:00,Friday,Express,268,1
+Chicago,Boston,10:30,13:00,Thursday,Local,164,10
+Providence,Washington DC,07:45,09:45,Saturday,Local,171,9
+Washington DC,Boston,13:30,15:45,Wednesday,Express,120,4
+New York,Philadelphia,11:00,13:30,Friday,Local,111,8
+Chicago,Baltimore,10:00,11:30,Sunday,Local,74,9
+Providence,Trenton,11:30,13:45,Thursday,Local,172,9
+Trenton,Newark,15:00,16:00,Wednesday,Local,79,6
+Trenton,Philadelphia,19:15,23:00,Tuesday,Express,363,2
+Baltimore,Washington DC,09:45,11:30,Thursday,Local,120,6
+Chicago,Providence,07:15,09:15,Saturday,Local,129,8
+Washington DC,New York,07:45,09:30,Tuesday,Express,167,4
+Boston,Philadelphia,12:00,13:30,Tuesday,Express,64,4
+Washington DC,New York,10:15,12:30,Monday,Local,167,8
+Trenton,New Haven,12:00,14:00,Friday,Local,124,7
+Trenton,Baltimore,08:45,12:00,Thursday,Local,226,8
+Philadelphia,Boston,09:30,10:15,Tuesday,Local,65,8
+Trenton,Boston,20:30,02:00,Monday,Express,415,1
+New York,Newark,12:15,17:45,Saturday,Express,410,3
+New Haven,Baltimore,16:00,18:30,Wednesday,Express,113,3
+Chicago,Newark,17:00,20:00,Sunday,Local,219,10
+Washington DC,Chicago,12:15,13:45,Sunday,Local,63,8
+New Haven,Providence,17:30,19:00,Thursday,Local,73,8
+Providence,Newark,13:45,16:15,Tuesday,Local,126,6
+Boston,New Haven,08:15,12:45,Sunday,Express,313,4
+New York,Trenton,09:45,15:00,Friday,Express,472,1
+Washington DC,Baltimore,07:30,09:30,Sunday,Local,110,8
+New Haven,Providence,10:00,10:45,Sunday,Express,73,6
+Boston,Baltimore,11:30,14:30,Sunday,Local,220,10
+Philadelphia,New Haven,12:15,15:00,Monday,Local,271,10
+New York,Boston,11:00,11:45,Tuesday,Express,67,5
+New York,Washington DC,11:15,13:15,Friday,Local,176,9
+Philadelphia,Boston,20:15,21:30,Tuesday,Local,65,6
+Chicago,Boston,07:30,09:45,Thursday,Express,164,3
+Philadelphia,Providence,09:15,12:45,Thursday,Local,212,8
+New York,Chicago,09:30,12:45,Thursday,Local,218,8
+New York,Washington DC,19:00,20:45,Saturday,Express,176,6
+New Haven,Newark,07:30,09:00,Sunday,Local,70,8
+Trenton,New Haven,08:00,10:15,Saturday,Express,124,5
+Boston,Newark,18:30,22:15,Monday,Local,362,8
+Philadelphia,New Haven,17:45,21:15,Thursday,Express,271,1
+Boston,Chicago,07:45,09:30,Friday,Express,165,2
+Philadelphia,Chicago,18:15,20:30,Tuesday,Express,111,4
+Providence,Baltimore,20:30,21:45,Sunday,Local,60,10
+New York,Newark,11:30,16:45,Wednesday,Express,410,1
+Trenton,Providence,13:00,15:15,Friday,Express,172,4
+New Haven,Chicago,10:15,12:45,Sunday,Express,172,6
+Trenton,New Haven,13:30,16:00,Saturday,Express,124,5
+Trenton,Philadelphia,13:15,17:45,Saturday,Express,363,3
+Trenton,Providence,18:45,20:30,Friday,Local,172,9
+Boston,Trenton,15:30,20:45,Saturday,Local,422,10
+Philadelphia,Newark,14:30,18:30,Thursday,Local,324,9
+Newark,Trenton,10:15,11:45,Monday,Local,64,7
+Providence,Newark,20:30,22:15,Tuesday,Local,126,8
+Washington DC,New Haven,16:15,19:30,Monday,Local,211,9
+Trenton,Newark,15:30,17:00,Sunday,Local,79,8
+Chicago,Baltimore,10:00,11:00,Tuesday,Express,74,4
+Boston,Trenton,09:15,14:30,Tuesday,Local,422,9
+New Haven,Baltimore,13:30,15:45,Monday,Express,113,4
+Washington DC,Trenton,11:45,16:00,Friday,Express,316,2
+Newark,Providence,14:30,16:45,Tuesday,Local,114,7
+Chicago,Trenton,16:45,20:15,Monday,Express,277,1
+Newark,New York,20:45,01:30,Tuesday,Express,428,1
+Washington DC,Philadelphia,17:00,17:45,Wednesday,Express,75,4
+Trenton,Baltimore,14:15,17:45,Friday,Express,226,3
+Chicago,Newark,06:30,09:15,Thursday,Local,219,9
+Newark,Baltimore,15:00,17:15,Tuesday,Local,164,9
+New Haven,Chicago,16:30,18:30,Wednesday,Local,172,10
+Philadelphia,Washington DC,15:45,16:30,Thursday,Local,71,7
+New York,Providence,12:15,16:45,Thursday,Local,312,10
+Philadelphia,Newark,19:30,23:45,Sunday,Local,324,10
+Washington DC,Trenton,11:30,15:30,Tuesday,Local,316,9
+Boston,Washington DC,16:45,18:45,Monday,Local,126,6
+New York,Boston,15:30,16:45,Tuesday,Local,67,8
+Providence,Chicago,09:30,11:30,Wednesday,Local,115,8
+New Haven,Trenton,19:45,22:00,Thursday,Express,119,3
+Providence,Washington DC,18:00,20:15,Tuesday,Local,171,9
+Chicago,Washington DC,06:45,07:30,Monday,Express,60,3
+New York,Philadelphia,13:00,14:45,Sunday,Express,111,6
+Providence,New York,11:15,15:15,Tuesday,Express,311,1
+Providence,New York,12:00,16:15,Friday,Express,311,1
+Newark,New Haven,09:00,10:00,Sunday,Local,69,8
+Philadelphia,New Haven,10:15,13:15,Monday,Express,271,2
+Newark,Providence,14:00,15:45,Wednesday,Local,114,7
+New York,Trenton,09:45,14:30,Thursday,Local,472,8
+New York,Philadelphia,17:00,19:00,Tuesday,Express,111,4
+Washington DC,New York,16:15,18:15,Monday,Local,167,10
+Newark,Boston,16:45,20:30,Sunday,Express,377,4
+Baltimore,Boston,21:15,00:00,Friday,Express,220,2
+Philadelphia,Baltimore,06:15,08:45,Monday,Local,162,8
+New York,Newark,19:30,00:45,Saturday,Local,410,10
+Washington DC,Trenton,14:30,19:00,Friday,Express,316,2
+Newark,Chicago,16:15,19:30,Sunday,Local,219,10
+Philadelphia,New York,14:15,16:00,Wednesday,Local,118,7
+Newark,Baltimore,13:15,15:30,Thursday,Local,164,8
+Providence,Philadelphia,20:30,23:45,Sunday,Express,229,3
+Washington DC,Trenton,19:30,00:00,Wednesday,Express,316,1
+Philadelphia,New York,09:00,10:45,Tuesday,Local,118,6
+Trenton,Newark,09:00,10:30,Monday,Local,79,6
+Chicago,New York,10:15,13:30,Saturday,Local,213,10
+Chicago,Philadelphia,13:45,16:00,Friday,Local,110,7
+Philadelphia,New York,13:45,15:30,Friday,Local,118,6
+Newark,Chicago,14:30,17:15,Monday,Express,219,3
+Washington DC,Newark,20:30,23:30,Saturday,Local,264,10
+Chicago,Providence,15:30,17:15,Monday,Express,129,4
+Washington DC,Philadelphia,17:15,18:15,Tuesday,Local,75,6
+Chicago,New York,18:45,22:00,Wednesday,Express,213,1
+Providence,Newark,13:00,14:45,Sunday,Local,126,8
+Newark,Boston,21:15,01:30,Friday,Express,377,1
+Providence,New Haven,18:00,19:30,Tuesday,Local,63,7
+Chicago,Providence,13:00,15:15,Wednesday,Express,129,3
+Trenton,Boston,21:15,02:15,Tuesday,Express,415,3
+Trenton,Philadelphia,19:00,23:30,Saturday,Express,363,4
+Providence,New York,16:45,21:00,Friday,Express,311,1
+Trenton,Washington DC,20:00,00:00,Sunday,Express,327,4
+Chicago,Trenton,09:45,13:15,Monday,Express,277,2
+Philadelphia,Washington DC,19:45,20:45,Monday,Local,71,6
+Providence,Newark,16:45,19:15,Wednesday,Express,126,4
+Boston,New York,17:30,18:30,Sunday,Local,74,8
+Newark,New Haven,20:00,20:45,Thursday,Local,69,8
+Trenton,New Haven,08:15,10:45,Saturday,Local,124,7
+Trenton,Washington DC,13:15,17:15,Wednesday,Local,327,8
+New York,Trenton,12:00,17:15,Thursday,Local,472,8
+Baltimore,Newark,21:30,23:45,Tuesday,Express,164,5
+Providence,Trenton,15:30,17:45,Saturday,Express,172,6
+New Haven,Newark,10:45,11:45,Tuesday,Express,70,3
+Trenton,Newark,07:00,08:00,Sunday,Local,79,8
+Newark,New Haven,06:00,07:00,Friday,Express,69,2
+Boston,Newark,13:15,17:00,Saturday,Express,362,3
+Trenton,New York,18:00,23:15,Thursday,Express,462,1
+Boston,Trenton,06:30,11:15,Friday,Express,422,1
+Chicago,Boston,17:00,19:15,Monday,Express,164,5
+Chicago,Washington DC,09:15,10:45,Thursday,Local,60,8
+Baltimore,New Haven,19:45,22:15,Wednesday,Express,115,4
+Philadelphia,New York,13:15,15:15,Monday,Local,118,6
+New Haven,Philadelphia,18:15,21:15,Monday,Local,262,9
+New York,Chicago,06:45,09:30,Wednesday,Local,218,9
+Baltimore,Chicago,10:15,11:15,Saturday,Local,76,9
+Washington DC,Chicago,21:15,22:15,Monday,Local,63,7
+New York,Chicago,15:00,18:15,Sunday,Express,218,3
+Providence,Chicago,12:00,14:30,Thursday,Express,115,3
+Newark,Chicago,17:45,20:45,Friday,Express,219,3
+Washington DC,New Haven,06:00,09:30,Monday,Local,211,8
+Washington DC,Baltimore,19:00,21:30,Thursday,Express,110,5
+Baltimore,Newark,17:15,19:30,Tuesday,Express,164,4
+Philadelphia,Newark,09:30,13:30,Thursday,Local,324,9
+Baltimore,Washington DC,08:00,09:45,Friday,Local,120,5
+Providence,Chicago,09:30,11:30,Thursday,Local,115,7
+Trenton,Providence,18:00,19:45,Wednesday,Local,172,8
+Trenton,Baltimore,20:00,22:45,Friday,Express,226,1
+Philadelphia,Boston,11:45,12:30,Saturday,Local,65,9
+Providence,Philadelphia,06:45,09:45,Tuesday,Local,229,9
+Philadelphia,New Haven,08:45,11:45,Wednesday,Express,271,1
+Boston,Newark,20:30,00:45,Saturday,Express,362,4
+Trenton,Baltimore,20:15,23:45,Thursday,Local,226,10
+Washington DC,Trenton,15:00,19:15,Friday,Express,316,3
+New Haven,Chicago,21:00,23:30,Tuesday,Local,172,9
+Newark,Providence,15:00,17:15,Wednesday,Local,114,6
+Providence,New York,16:30,20:45,Saturday,Express,311,3
+New York,Baltimore,20:45,00:00,Saturday,Express,271,4
+Philadelphia,Trenton,07:15,11:30,Tuesday,Local,368,8
+Newark,Chicago,15:30,18:45,Sunday,Local,219,10
+New York,Providence,19:45,00:00,Thursday,Local,312,9
+Newark,New Haven,21:30,22:30,Tuesday,Express,69,5
+New Haven,New York,17:15,21:15,Saturday,Local,377,10
+New York,Boston,11:45,12:45,Monday,Local,67,7
+Baltimore,Providence,08:30,09:45,Wednesday,Local,76,5
+Chicago,Newark,21:15,00:00,Tuesday,Local,219,9
+Baltimore,New York,09:00,12:15,Sunday,Local,262,10
+Trenton,Philadelphia,14:15,18:45,Saturday,Express,363,3
+Chicago,Providence,12:00,14:00,Thursday,Local,129,7
+Baltimore,Trenton,07:30,10:30,Saturday,Local,217,9
+Chicago,Baltimore,18:45,19:45,Thursday,Local,74,7
+Chicago,Providence,06:45,09:00,Tuesday,Local,129,6
+Washington DC,Boston,20:30,23:00,Thursday,Express,120,4
+Philadelphia,New Haven,07:45,11:15,Friday,Express,271,1
+Philadelphia,Washington DC,10:45,12:00,Friday,Express,71,5
+Washington DC,Philadelphia,13:00,13:45,Friday,Local,75,7
+Newark,Washington DC,21:30,01:00,Sunday,Local,274,10
+Boston,Newark,19:15,23:45,Sunday,Express,362,4
+Newark,New York,19:00,00:15,Monday,Express,428,1
+New York,Boston,18:30,19:45,Sunday,Express,67,5
+New York,Providence,17:00,21:00,Tuesday,Local,312,9
+Chicago,Baltimore,17:15,18:45,Saturday,Local,74,8
+Baltimore,Washington DC,08:15,10:45,Saturday,Express,120,4
+Baltimore,Washington DC,16:30,18:15,Monday,Express,120,3
+Philadelphia,Boston,14:15,15:30,Sunday,Express,65,5
+Providence,Newark,20:00,22:30,Thursday,Local,126,8
+Newark,Trenton,12:15,13:30,Monday,Local,64,6
+Trenton,New Haven,16:00,18:15,Thursday,Local,124,8
+New Haven,Philadelphia,18:00,21:15,Thursday,Express,262,2
+Baltimore,Trenton,20:15,23:45,Wednesday,Express,217,1
+New Haven,Baltimore,06:30,08:30,Saturday,Local,113,7
+Chicago,Baltimore,19:45,20:30,Friday,Express,74,3
+New Haven,Boston,07:15,11:30,Sunday,Local,314,9
+Trenton,Providence,07:00,08:45,Thursday,Express,172,2
+Washington DC,Newark,07:00,10:00,Wednesday,Express,264,1
+Trenton,Washington DC,19:15,23:00,Saturday,Express,327,5
+New Haven,Boston,17:30,21:45,Friday,Express,314,1
+Trenton,Newark,11:30,12:15,Thursday,Local,79,8
+Boston,Providence,18:00,21:30,Thursday,Express,277,3
+Chicago,Philadelphia,08:00,10:00,Monday,Local,110,5
+Newark,New York,14:30,20:00,Monday,Local,428,10
+Washington DC,Chicago,10:45,11:30,Saturday,Local,63,9
+Baltimore,Chicago,20:15,21:45,Friday,Express,76,4
+New York,Providence,18:00,22:15,Thursday,Local,312,10
+Newark,Washington DC,21:00,00:00,Saturday,Local,274,10
+New York,Washington DC,20:30,22:15,Saturday,Local,176,10
+Chicago,New Haven,16:15,18:15,Tuesday,Express,178,4
+Washington DC,New York,14:30,16:45,Sunday,Express,167,7
+Philadelphia,New Haven,18:15,21:15,Monday,Local,271,9
+Baltimore,Chicago,10:15,11:30,Friday,Express,76,4
+Boston,New Haven,21:15,01:15,Thursday,Local,313,10
+Philadelphia,Boston,10:00,10:45,Saturday,Local,65,9
+Chicago,Trenton,11:45,14:45,Thursday,Express,277,3
+Newark,Trenton,06:30,07:30,Tuesday,Local,64,5
+Boston,New Haven,13:45,18:00,Friday,Express,313,1
+Trenton,Philadelphia,14:30,19:00,Saturday,Express,363,3
+New Haven,Philadelphia,15:15,18:30,Thursday,Local,262,8
+Boston,Baltimore,09:00,12:00,Monday,Express,220,3
+Chicago,New Haven,19:45,21:30,Sunday,Express,178,5
+Providence,Boston,21:00,00:30,Tuesday,Local,275,8
+New Haven,Boston,17:30,21:30,Friday,Local,314,8
+New York,Boston,12:00,13:15,Tuesday,Express,67,3
+Baltimore,Chicago,08:00,09:15,Monday,Express,76,3
+New York,Providence,06:45,10:30,Friday,Local,312,9
+Boston,Chicago,09:15,11:30,Tuesday,Express,165,3
+New York,Newark,15:00,20:15,Wednesday,Express,410,1
+Chicago,New Haven,14:15,16:15,Monday,Express,178,3
+Trenton,New York,08:30,13:45,Monday,Express,462,1
+Newark,New Haven,16:00,17:30,Monday,Express,69,5
+Baltimore,Chicago,19:45,20:45,Wednesday,Express,76,3
+New York,Providence,06:30,10:15,Wednesday,Express,312,1
+New York,Baltimore,20:30,23:30,Thursday,Local,271,8
+Boston,New Haven,12:45,16:30,Saturday,Local,313,10
+Newark,Chicago,13:00,15:45,Sunday,Local,219,10
+Philadelphia,Chicago,08:00,10:15,Tuesday,Local,111,6
+New York,Washington DC,06:30,08:15,Thursday,Local,176,8
+Chicago,Baltimore,12:00,13:15,Tuesday,Express,74,5
+Providence,Washington DC,14:15,16:00,Sunday,Express,171,5
+Baltimore,Washington DC,08:45,10:45,Saturday,Express,120,5
+New York,Philadelphia,16:15,18:00,Wednesday,Express,111,5
+Chicago,Philadelphia,08:00,10:15,Saturday,Local,110,9
+Chicago,Providence,09:30,11:15,Wednesday,Express,129,3
+Baltimore,Washington DC,15:45,18:15,Sunday,Express,120,5
+Philadelphia,Trenton,12:00,16:15,Saturday,Local,368,10
+Chicago,Providence,07:00,09:00,Thursday,Express,129,4
+Providence,Trenton,08:30,11:00,Friday,Express,172,3
+Chicago,Washington DC,20:30,21:30,Thursday,Local,60,6
+Chicago,Washington DC,14:15,15:30,Tuesday,Express,60,4
+Chicago,Baltimore,11:45,12:45,Thursday,Express,74,4
+Trenton,Boston,20:45,01:30,Sunday,Express,415,5
+Trenton,Providence,09:30,12:00,Monday,Express,172,5
+Philadelphia,Washington DC,15:15,16:00,Tuesday,Express,71,4
+New York,Washington DC,07:45,10:00,Saturday,Local,176,9
+Chicago,Boston,20:30,22:45,Tuesday,Local,164,9
+Newark,Boston,07:00,11:00,Friday,Local,377,8
+New York,Boston,17:45,19:15,Wednesday,Local,67,8
+Philadelphia,New Haven,12:15,15:00,Saturday,Local,271,10
+Washington DC,Newark,10:15,13:00,Tuesday,Local,264,8
+New York,Baltimore,07:15,10:45,Saturday,Express,271,3
+New York,Philadelphia,15:00,17:30,Saturday,Local,111,8
+New Haven,New York,20:45,01:00,Saturday,Local,377,10
+Boston,New York,17:45,19:00,Wednesday,Express,74,3
+New Haven,Providence,09:00,10:00,Sunday,Express,73,6
+Providence,Washington DC,12:45,15:15,Thursday,Local,171,8
+Trenton,New Haven,07:00,09:00,Saturday,Express,124,5
+Trenton,Philadelphia,09:00,13:30,Monday,Local,363,8
+Boston,New York,10:00,11:00,Sunday,Express,74,6
+Baltimore,Boston,18:15,21:45,Friday,Local,220,8
+Baltimore,Washington DC,15:45,17:45,Wednesday,Express,120,3
+Philadelphia,Newark,17:00,20:45,Tuesday,Express,324,2
+Boston,Trenton,13:45,18:45,Wednesday,Local,422,8
+New York,Baltimore,21:15,00:15,Tuesday,Local,271,8
+Baltimore,Providence,13:00,13:45,Wednesday,Local,76,8
+Chicago,Trenton,18:30,22:00,Tuesday,Local,277,9
+Newark,Trenton,20:15,21:15,Saturday,Local,64,9
+New York,Trenton,06:30,12:00,Thursday,Express,472,1
+Providence,Trenton,19:45,21:45,Tuesday,Local,172,10
+Chicago,New Haven,15:45,18:15,Tuesday,Local,178,10
+Chicago,Philadelphia,14:15,16:45,Monday,Express,110,4
+Boston,Providence,15:45,19:00,Tuesday,Express,277,2
+Philadelphia,Trenton,12:30,16:30,Monday,Local,368,9
+Providence,Chicago,09:00,11:30,Friday,Express,115,3
+Baltimore,New Haven,17:00,19:30,Saturday,Express,115,5
+Boston,Baltimore,14:00,17:00,Monday,Local,220,8
+Baltimore,Boston,07:15,10:45,Thursday,Express,220,2
+Boston,Providence,11:45,15:15,Sunday,Express,277,5
+Boston,Chicago,10:30,12:30,Saturday,Local,165,10
+Boston,Chicago,09:45,12:15,Monday,Local,165,10
+Philadelphia,New York,15:45,17:30,Saturday,Express,118,6
+Boston,Philadelphia,12:45,13:45,Saturday,Express,64,5
+Washington DC,Baltimore,14:00,16:30,Saturday,Local,110,8
+Newark,Philadelphia,20:30,00:30,Friday,Express,315,1
+Baltimore,Providence,20:30,22:00,Thursday,Express,76,3
+New York,New Haven,17:45,21:45,Wednesday,Express,370,1
+New Haven,New York,16:00,19:45,Wednesday,Local,377,9
+Providence,Boston,09:00,11:45,Monday,Express,275,1
+Trenton,Washington DC,16:30,20:45,Saturday,Express,327,4
+Philadelphia,New York,17:00,18:45,Monday,Local,118,7
+New York,Boston,12:00,13:30,Friday,Express,67,3
+Chicago,Providence,19:00,21:00,Friday,Express,129,4
+Washington DC,Newark,16:15,19:00,Tuesday,Local,264,10
+Trenton,Philadelphia,14:45,18:30,Friday,Local,363,9
+New Haven,Baltimore,21:30,23:45,Tuesday,Local,113,7
+New York,Providence,12:30,16:30,Thursday,Local,312,9
+Trenton,Newark,15:15,16:45,Monday,Express,79,3
+New York,Chicago,20:45,00:15,Sunday,Express,218,3
+Washington DC,New Haven,07:30,10:45,Thursday,Local,211,9
+New Haven,Baltimore,07:00,09:00,Friday,Local,113,5
+Chicago,Washington DC,16:30,17:30,Thursday,Express,60,4
+Boston,Baltimore,17:00,20:15,Thursday,Local,220,9
+Baltimore,Boston,20:15,23:00,Thursday,Express,220,3
+Chicago,Newark,20:00,22:45,Friday,Local,219,9
+Boston,New York,18:30,19:45,Sunday,Express,74,6
+Philadelphia,Baltimore,13:30,15:45,Saturday,Local,162,10
+Newark,Washington DC,11:30,14:15,Thursday,Local,274,8
+Providence,New Haven,16:15,17:45,Tuesday,Express,63,4
+Providence,Philadelphia,08:15,11:15,Friday,Local,229,7
+Baltimore,Trenton,13:45,16:45,Thursday,Express,217,1
+New Haven,Chicago,16:30,18:15,Sunday,Express,172,7
+Washington DC,Philadelphia,19:00,20:30,Saturday,Express,75,5
+New Haven,Philadelphia,13:15,16:15,Friday,Express,262,1
+Washington DC,Trenton,15:30,20:00,Wednesday,Express,316,2
+New Haven,Providence,13:30,14:45,Saturday,Local,73,9
+Newark,Providence,10:15,12:15,Tuesday,Local,114,6
+Philadelphia,Providence,14:45,17:45,Thursday,Express,212,1
+Philadelphia,Providence,06:15,09:15,Sunday,Local,212,9
+Boston,New York,09:15,10:15,Wednesday,Express,74,3
+Trenton,Philadelphia,09:00,13:30,Sunday,Local,363,10
+Philadelphia,Chicago,13:00,15:00,Wednesday,Local,111,8
+Philadelphia,New Haven,08:45,12:00,Friday,Local,271,9
+Chicago,Washington DC,15:30,16:15,Wednesday,Local,60,7
+Chicago,Providence,06:15,08:15,Tuesday,Express,129,2
+Boston,Washington DC,13:45,15:30,Tuesday,Express,126,4
+Trenton,Chicago,09:00,12:30,Monday,Local,268,10
+Baltimore,Trenton,17:15,20:00,Tuesday,Local,217,10
+Chicago,Trenton,12:30,16:00,Saturday,Express,277,4
+Baltimore,New York,18:00,21:15,Wednesday,Local,262,9
+New York,Providence,16:00,19:45,Tuesday,Express,312,1
+Chicago,New Haven,10:00,12:00,Friday,Express,178,4
+Newark,Trenton,15:45,16:45,Sunday,Express,64,7
+Trenton,Philadelphia,13:30,17:15,Sunday,Local,363,10
+Boston,Washington DC,14:15,16:15,Monday,Express,126,4
+New York,Washington DC,20:45,23:15,Sunday,Local,176,10
+Trenton,Washington DC,21:45,01:30,Wednesday,Express,327,3
+Newark,New Haven,11:45,12:30,Monday,Local,69,7
+Trenton,Chicago,17:00,20:30,Wednesday,Local,268,9
+Newark,Baltimore,14:30,17:00,Friday,Local,164,10
+Newark,Providence,17:45,19:45,Monday,Express,114,3
+Baltimore,New York,07:15,10:00,Thursday,Express,262,1
+New Haven,Trenton,10:30,12:45,Saturday,Local,119,9
+New York,Philadelphia,13:15,15:15,Saturday,Local,111,10
+Trenton,New York,07:30,12:15,Wednesday,Local,462,7
+Washington DC,Boston,08:15,10:45,Sunday,Express,120,5
+New York,Providence,16:00,20:00,Thursday,Express,312,1
+New Haven,Providence,13:45,14:45,Monday,Express,73,3
+New York,Washington DC,14:15,16:45,Thursday,Express,176,3
+Philadelphia,Washington DC,21:30,23:00,Thursday,Local,71,7
+Washington DC,Trenton,12:45,16:45,Sunday,Local,316,10
+New Haven,Philadelphia,20:45,00:00,Monday,Express,262,3
+Baltimore,Washington DC,09:30,11:15,Friday,Express,120,3
+Trenton,Providence,13:15,15:00,Sunday,Local,172,10
+Providence,Baltimore,15:00,16:15,Thursday,Express,60,4
+New Haven,Washington DC,13:00,16:00,Thursday,Express,220,1
+Boston,New Haven,11:15,15:00,Friday,Express,313,1
+Trenton,Providence,06:45,08:45,Thursday,Express,172,2
+New Haven,Baltimore,10:45,13:15,Thursday,Express,113,3
+Philadelphia,Providence,13:45,17:00,Thursday,Express,212,2
+Providence,Chicago,14:45,16:45,Saturday,Local,115,9
+Philadelphia,New York,18:15,20:15,Sunday,Express,118,7
+Providence,Baltimore,06:45,07:45,Tuesday,Express,60,2
+Boston,Trenton,12:30,17:30,Sunday,Local,422,10
+Trenton,Providence,21:45,23:30,Friday,Local,172,8
+Baltimore,Chicago,10:00,11:15,Thursday,Local,76,7
+Philadelphia,New Haven,08:45,11:30,Sunday,Express,271,2
+Philadelphia,Boston,11:15,12:30,Saturday,Local,65,8
+Newark,Boston,10:00,14:30,Friday,Express,377,2
+Providence,New York,08:15,12:45,Wednesday,Express,311,1
+Chicago,Washington DC,19:15,20:30,Sunday,Express,60,6
+Trenton,New York,06:00,11:00,Wednesday,Local,462,9
+Providence,Baltimore,11:15,12:15,Thursday,Local,60,8
+Newark,Baltimore,12:15,14:15,Saturday,Local,164,10
+New York,Trenton,19:45,00:30,Saturday,Local,472,10
+Providence,New Haven,20:30,22:00,Sunday,Local,63,9
+Baltimore,Philadelphia,10:15,12:30,Friday,Express,174,4
+Trenton,Baltimore,18:15,21:45,Friday,Express,226,3
+Newark,Chicago,09:15,12:15,Saturday,Express,219,3
+New York,New Haven,21:45,01:45,Friday,Express,370,1
+Washington DC,Philadelphia,17:30,18:45,Saturday,Local,75,9
+Newark,Philadelphia,13:00,17:00,Sunday,Local,315,10
+Washington DC,Providence,08:45,10:30,Tuesday,Express,166,4
+Trenton,Philadelphia,14:45,19:15,Saturday,Local,363,10
+Philadelphia,Chicago,20:30,22:45,Wednesday,Local,111,7
+Newark,Chicago,14:30,17:45,Friday,Express,219,1
+Boston,New Haven,18:45,23:15,Saturday,Express,313,4
+Washington DC,Trenton,21:00,01:30,Saturday,Local,316,10
+Baltimore,Chicago,08:45,09:30,Sunday,Local,76,9
+Boston,New Haven,07:30,11:30,Friday,Express,313,2
+New Haven,Baltimore,13:00,15:30,Tuesday,Express,113,4
+New Haven,New York,08:30,12:30,Sunday,Express,377,4
+New York,Newark,14:00,19:30,Tuesday,Local,410,9
+Philadelphia,Boston,07:15,08:45,Sunday,Express,65,6
+Trenton,Newark,17:30,19:00,Friday,Express,79,3
+Newark,Baltimore,09:30,11:45,Monday,Local,164,10
+Chicago,Trenton,13:45,16:45,Friday,Local,277,10
+Baltimore,Boston,18:30,21:45,Friday,Local,220,8
+Washington DC,Trenton,08:30,13:00,Tuesday,Local,316,8
+Trenton,Newark,20:15,21:45,Tuesday,Local,79,7
+Boston,New York,11:30,13:00,Friday,Express,74,3
+New Haven,Boston,12:15,16:45,Friday,Express,314,3
+Baltimore,Newark,14:15,16:15,Friday,Local,164,10
+Chicago,New Haven,17:15,19:15,Tuesday,Local,178,9
+Newark,Chicago,14:15,17:00,Friday,Local,219,8
+New York,Philadelphia,13:00,15:15,Friday,Local,111,6
+Chicago,New Haven,06:45,08:30,Thursday,Local,178,8
+Baltimore,Boston,10:00,13:15,Monday,Express,220,1
+Chicago,Philadelphia,14:30,16:45,Wednesday,Express,110,3
+Baltimore,Providence,09:00,09:45,Monday,Express,76,3
+Baltimore,Trenton,16:00,18:45,Thursday,Express,217,1
+Providence,New Haven,15:30,16:30,Wednesday,Local,63,6
+Washington DC,Providence,09:30,11:45,Sunday,Express,166,5
+New Haven,Providence,19:30,21:00,Friday,Local,73,7
+Providence,New York,13:00,17:15,Thursday,Local,311,9
+Newark,Washington DC,13:00,15:45,Sunday,Local,274,10
+Providence,Chicago,08:30,10:30,Friday,Express,115,4
+Philadelphia,Washington DC,18:45,20:15,Tuesday,Local,71,7
+Philadelphia,New Haven,13:45,17:15,Saturday,Express,271,5
+New Haven,Philadelphia,06:15,09:45,Thursday,Express,262,2
+Chicago,Newark,17:30,21:00,Tuesday,Local,219,10
+Washington DC,Providence,09:15,11:00,Thursday,Local,166,9
+New Haven,Chicago,10:45,12:30,Thursday,Local,172,9
+Baltimore,Providence,11:15,12:30,Tuesday,Express,76,3
+Boston,New Haven,08:30,12:45,Wednesday,Local,313,9
+Washington DC,Boston,12:30,14:45,Monday,Express,120,3
+Washington DC,Baltimore,06:30,08:15,Friday,Local,110,5
+Baltimore,Boston,10:00,13:30,Thursday,Local,220,10
+Baltimore,Newark,21:15,23:30,Friday,Express,164,3
+New York,Philadelphia,16:45,19:15,Saturday,Express,111,6
+New Haven,Baltimore,19:45,22:00,Tuesday,Express,113,4
+Baltimore,Trenton,12:45,16:00,Friday,Express,217,1
+Philadelphia,Newark,13:00,17:30,Tuesday,Express,324,1
+Newark,New York,11:00,16:15,Friday,Express,428,1
+Boston,Providence,17:30,20:15,Monday,Local,277,8
+New Haven,Trenton,09:45,11:45,Monday,Local,119,6
+Trenton,Boston,15:00,19:45,Monday,Express,415,1
+Philadelphia,Trenton,20:30,00:15,Monday,Local,368,10
+Chicago,Boston,10:45,13:15,Monday,Express,164,3
+Baltimore,Chicago,07:15,08:30,Monday,Local,76,5
+Trenton,Philadelphia,10:30,14:30,Tuesday,Local,363,10
+Baltimore,Washington DC,20:00,21:45,Thursday,Express,120,3
+Washington DC,Philadelphia,07:00,08:00,Friday,Express,75,3
+Philadelphia,Trenton,06:30,10:15,Monday,Express,368,1
+Washington DC,Boston,20:30,22:15,Tuesday,Local,120,6
+New York,Washington DC,06:00,08:15,Tuesday,Express,176,3
+Washington DC,Providence,20:15,22:30,Tuesday,Local,166,8
+New York,Washington DC,20:45,22:30,Thursday,Express,176,3
+New York,Newark,15:15,20:30,Friday,Local,410,9
+Trenton,Newark,09:30,10:15,Thursday,Local,79,7
+Baltimore,Chicago,14:15,15:15,Wednesday,Express,76,3
+Chicago,Trenton,21:00,00:30,Sunday,Local,277,10
+Washington DC,Trenton,14:30,19:00,Tuesday,Local,316,9
+Philadelphia,Newark,21:45,02:15,Wednesday,Express,324,1
+New York,Chicago,18:00,21:15,Saturday,Local,218,10
+Baltimore,Trenton,12:00,15:00,Monday,Express,217,3
+Boston,Washington DC,11:45,13:30,Sunday,Express,126,7
+New Haven,Providence,08:45,09:30,Monday,Express,73,3
+Trenton,Boston,10:15,15:30,Thursday,Express,415,2
+Chicago,Washington DC,09:30,10:30,Sunday,Local,60,9
+Providence,Trenton,16:45,19:15,Friday,Local,172,9
+Trenton,Newark,09:45,10:45,Wednesday,Local,79,6
+Boston,Washington DC,12:30,14:15,Friday,Express,126,3
+New Haven,Washington DC,07:45,11:15,Thursday,Local,220,8
+Boston,Baltimore,20:45,23:45,Monday,Local,220,10
+Washington DC,Trenton,17:15,21:45,Sunday,Express,316,4
+New York,Providence,12:00,16:30,Friday,Express,312,3
+Chicago,New Haven,10:00,12:30,Friday,Local,178,10
+Newark,Chicago,13:00,16:15,Monday,Express,219,1
+New York,Washington DC,19:00,20:45,Sunday,Express,176,6
+Newark,Trenton,07:45,09:00,Wednesday,Express,64,4
+New Haven,Providence,09:30,10:15,Monday,Express,73,3
+Baltimore,Trenton,12:30,15:15,Friday,Local,217,9
+Providence,New Haven,17:15,18:15,Wednesday,Express,63,3
+Philadelphia,Washington DC,18:15,19:15,Wednesday,Express,71,3
+New York,Chicago,18:45,22:15,Monday,Express,218,2
+Chicago,Providence,07:30,09:45,Friday,Express,129,2
+Boston,Newark,06:30,10:15,Thursday,Express,362,1
+Chicago,Trenton,13:00,16:30,Friday,Express,277,3
+New Haven,Providence,21:45,22:45,Tuesday,Express,73,3
+Newark,Baltimore,16:45,19:15,Sunday,Express,164,5
+Boston,Washington DC,19:00,20:45,Saturday,Local,126,8
+Philadelphia,Providence,11:45,15:15,Thursday,Express,212,3
+Philadelphia,Boston,20:45,22:15,Wednesday,Local,65,7
+New York,Washington DC,20:15,22:15,Thursday,Express,176,4
+New Haven,Providence,06:30,07:45,Sunday,Express,73,5
+Baltimore,Washington DC,10:45,12:30,Wednesday,Express,120,5
+New Haven,Boston,17:15,21:30,Sunday,Express,314,5
+Newark,Trenton,09:30,10:45,Wednesday,Local,64,7
+Chicago,Newark,12:00,15:15,Thursday,Express,219,2
+Philadelphia,Washington DC,13:15,14:15,Wednesday,Express,71,3
+Chicago,Philadelphia,09:15,11:30,Wednesday,Local,110,8
+Chicago,Philadelphia,07:30,09:30,Tuesday,Local,110,5
+Chicago,Providence,10:00,12:30,Friday,Express,129,3
+Philadelphia,Newark,21:15,01:30,Friday,Local,324,10
+Trenton,Baltimore,16:45,20:00,Saturday,Local,226,10
+Washington DC,New York,10:45,12:30,Saturday,Local,167,10
+Newark,New Haven,14:45,15:45,Tuesday,Express,69,3
+Trenton,Philadelphia,08:00,12:00,Saturday,Express,363,2
+Newark,Providence,15:15,17:30,Sunday,Express,114,7
+Boston,Providence,17:45,21:00,Thursday,Local,277,9
+New Haven,Trenton,20:00,22:15,Monday,Express,119,5
+New Haven,Chicago,20:45,22:30,Sunday,Local,172,10
+Providence,Washington DC,21:30,23:15,Monday,Express,171,4
+New Haven,New York,11:15,15:30,Monday,Express,377,2
+Philadelphia,Washington DC,19:15,20:45,Tuesday,Local,71,8
+Baltimore,Philadelphia,19:00,21:30,Sunday,Express,174,6
+New York,Boston,19:00,20:30,Tuesday,Local,67,7
+Providence,New Haven,06:15,07:15,Wednesday,Local,63,6
+New York,Philadelphia,11:45,14:00,Monday,Express,111,3
+Newark,Boston,07:45,12:15,Thursday,Local,377,7
+New York,Washington DC,08:30,10:30,Saturday,Express,176,6
+New York,Trenton,21:45,02:45,Thursday,Express,472,2
+Providence,Washington DC,09:00,10:45,Saturday,Local,171,10
+Boston,Philadelphia,10:00,11:00,Monday,Express,64,3
+Chicago,Trenton,07:45,10:30,Monday,Local,277,8
+New Haven,Baltimore,11:00,13:15,Monday,Express,113,5
+New Haven,Trenton,10:15,12:15,Tuesday,Express,119,3
+Philadelphia,Providence,13:15,16:15,Sunday,Express,212,3
+Providence,Trenton,21:45,00:15,Saturday,Express,172,6
+Philadelphia,Chicago,10:15,12:00,Sunday,Express,111,6
+Baltimore,Providence,17:15,18:30,Tuesday,Local,76,8
+Baltimore,Boston,17:30,20:30,Tuesday,Local,220,9
+Philadelphia,New York,13:30,16:00,Friday,Local,118,6
+Providence,Boston,15:15,18:45,Thursday,Local,275,9
+Philadelphia,Boston,13:45,14:45,Thursday,Local,65,7
+New Haven,Providence,08:30,09:15,Wednesday,Local,73,6
+Trenton,Washington DC,17:00,21:30,Tuesday,Express,327,1
+Washington DC,Trenton,12:00,15:45,Saturday,Express,316,3
+New York,Baltimore,14:00,17:00,Friday,Local,271,8
+Washington DC,Trenton,20:45,01:00,Friday,Local,316,10
+Providence,Baltimore,15:15,16:15,Sunday,Express,60,7
+Washington DC,Providence,16:00,18:15,Thursday,Express,166,3
+Baltimore,Boston,07:45,11:00,Tuesday,Express,220,2
+Newark,New York,08:30,13:15,Wednesday,Local,428,7
+New York,Chicago,11:15,14:00,Tuesday,Local,218,9
+Chicago,New York,18:30,22:00,Sunday,Local,213,10
+Providence,New Haven,11:45,13:15,Monday,Express,63,5
+New York,Philadelphia,16:00,18:15,Tuesday,Express,111,4
+Washington DC,Newark,10:00,13:30,Sunday,Local,264,10
+Baltimore,Newark,08:45,10:45,Monday,Local,164,8
+Boston,New York,20:00,20:45,Monday,Express,74,4
+Trenton,New York,17:15,22:30,Wednesday,Express,462,2
+Chicago,Providence,13:45,16:00,Saturday,Express,129,5
+Trenton,Boston,09:30,14:30,Thursday,Express,415,1
+New York,New Haven,09:45,14:15,Tuesday,Local,370,9
+Baltimore,New Haven,19:15,21:45,Monday,Express,115,3
+Baltimore,New York,11:15,14:45,Tuesday,Express,262,3
+Washington DC,Chicago,12:45,13:45,Saturday,Express,63,5
+New Haven,Chicago,10:45,12:45,Thursday,Local,172,9
+Washington DC,Philadelphia,14:00,15:30,Saturday,Local,75,10
+New Haven,Washington DC,08:15,11:45,Thursday,Express,220,1
+New Haven,Newark,15:45,16:30,Friday,Express,70,5
+Chicago,New York,13:45,17:15,Thursday,Express,213,2
+Washington DC,New Haven,18:15,21:30,Wednesday,Local,211,9
+Boston,Trenton,20:45,02:00,Saturday,Local,422,10
+Philadelphia,Providence,14:00,17:15,Monday,Local,212,10
+Philadelphia,Washington DC,06:15,07:00,Friday,Express,71,3
+Washington DC,New York,14:00,16:15,Wednesday,Local,167,9
+Washington DC,Boston,14:00,16:15,Tuesday,Express,120,5
+Trenton,Baltimore,16:00,19:00,Saturday,Express,226,4
+Chicago,Newark,09:00,12:00,Sunday,Express,219,4
+Washington DC,New Haven,13:15,16:30,Sunday,Local,211,10
+Trenton,Boston,14:00,19:15,Monday,Express,415,2
+New Haven,New York,09:00,13:30,Thursday,Local,377,10
+Baltimore,Providence,18:45,19:30,Monday,Local,76,6
+Baltimore,New York,12:15,15:30,Sunday,Express,262,4
+New Haven,Baltimore,11:15,13:45,Tuesday,Express,113,3
+Providence,New York,15:30,20:00,Friday,Local,311,10
+Trenton,New York,06:15,11:00,Friday,Express,462,2
+Trenton,Providence,15:15,17:45,Saturday,Local,172,10
+New Haven,Boston,15:30,19:30,Friday,Express,314,3
+Boston,New Haven,12:15,16:45,Saturday,Local,313,10
+Newark,Boston,17:15,21:00,Saturday,Local,377,10
